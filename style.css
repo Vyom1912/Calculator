@@ -29,8 +29,8 @@ body {
 }
 .container {
   /* max-width: fit-content; */
-  /* border: 1px solid #717377; */
-  padding: 20px;
+  border: 1px solid #717377;
+  padding: 50px 20px 20px;
   border-radius: 16px;
   background-color: transparent;
   /* box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5); */
